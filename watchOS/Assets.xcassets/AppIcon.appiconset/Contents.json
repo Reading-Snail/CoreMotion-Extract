@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "Image_Request_Aug_28_2025__1_-removebg-preview.png",
+      "idiom" : "universal",
+      "platform" : "watchos",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
